@@ -29,8 +29,8 @@ The baselines are ordered by increasing complexity. Each one removes one limitat
 ## Metrics
 
 - **RMSE** and **ND** (normalized deviation) measure the accuracy of the central forecast (the median of the simulated paths).
-- **Quantile loss** $\mathrm{QL}_{0.10}$ and $\mathrm{QL}_{0.90}$ measure how well the lower and upper tails of the distribution are estimated. $\mathrm{QL}_{0.10}$ is directly related to Value at Risk.
-
+- - **Quantile loss** $`\mathrm{QL}_{0.10}`$ and $`\mathrm{QL}_{0.90}`$ measure how well the lower and upper tails of the distribution are estimated. $`\mathrm{QL}_{0.10}`$ is directly related to Value at Risk.
+  - 
 ## Results
 
 Averages over all tickers on the test period (lower is better):
