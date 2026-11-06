@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34481367/README.md)
 # DeepAR: Probabilistic Forecasting of Financial Time Series
 
 A university project (Faculty of Mathematics, University of Belgrade, 2026) by Kristina Sandić, Stefan Vujadinović, Boris Stanković and Marko Milinić.
